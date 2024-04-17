@@ -1,0 +1,42 @@
+/*!***************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/certificate/style.scss ***!
+  \***************************************************************************************************************************************************************************************************************************************************/
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+.wp-block-create-block-certificate {
+  background-color: #21759b;
+  color: #fff;
+  padding: 2px;
+}
+
+.cya_certificate_wrapper {
+  background-color: "white";
+  background-size: "cover";
+  width: "100%";
+}
+
+.cya_certificate {
+  vertical-align: middle;
+  padding: 1em 2em;
+}
+
+.certificate-save-button {
+  padding: 1em;
+  margin: 1em;
+  border-color: #007cba;
+  color: #007cba;
+  border-radius: 2em;
+  background-color: transparent;
+  vertical-align: bottom;
+}
+
+.certificate-save-button:hover {
+  background-color: #007cba;
+  color: white;
+}
+
+/*# sourceMappingURL=style-index.css.map*/

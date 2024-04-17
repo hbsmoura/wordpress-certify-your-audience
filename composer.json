@@ -1,0 +1,23 @@
+{
+    "name": "hbsmoura/certify-your-audience",
+    "description": "Wordpress plugin for certification purposes.",
+    "license": "GPL2+",
+    "type": "wordpress-plugin",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "CertifyYourAudience\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hbsmoura",
+            "email": "humbertobsmoura@gmail.com",
+            "role": "developer"
+        }
+    ],
+    "require": {
+        "php": ">=8.2",
+        "chillerlan/php-qrcode": "^5.0"
+    }
+}

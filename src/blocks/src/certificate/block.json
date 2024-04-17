@@ -1,0 +1,33 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "cya/certificate",
+	"version": "0.1.0",
+	"title": "CYA Certificate",
+	"category": "widgets",
+	"icon": "welcome-learn-more",
+	"description": "The actual certificate block that holds the content.",
+	"example": {},
+	"supports": {
+		"html": false,
+		"lock": false
+	},
+	"attributes": {
+		"textAlign": {
+			"type": "string",
+			"default": "center"
+		},
+		"backgroundImage": {
+			"type": "object",
+			"default": {
+				"id": 0,
+				"url": ""
+			}
+		}
+	},
+	"textdomain": "certify-your-audience",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css",
+	"viewScript": "file:./view.js"
+}

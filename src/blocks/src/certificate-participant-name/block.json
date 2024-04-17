@@ -1,0 +1,19 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "cya/certificate-participant-name",
+	"version": "0.1.0",
+	"title": "CYA Participant Name",
+	"category": "widgets",
+	"icon": "admin-users",
+	"description": "The name of the person awarded with the certificate.",
+	"example": {},
+	"supports": {
+		"html": false
+	},
+	"textdomain": "certify-your-audience",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css",
+	"viewScript": "file:./view.js"
+}

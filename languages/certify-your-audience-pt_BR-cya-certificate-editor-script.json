@@ -1,0 +1,78 @@
+{
+   "domain": "certify-your-audience",
+   "locale_data": {
+      "certify-your-audience": {
+         "Choose background image": [
+            "Escolha a imagem de fundo"
+         ],
+         "Background Image": [
+            "Imagem de fundo"
+         ],
+         "Certified List": [
+            "Lista de Certificados"
+         ],
+         "Select Image": [
+            "Selecionar Imagem"
+         ],
+         "Remove Image": [
+            "Remover Imagem"
+         ],
+         "Replace Image": [
+            "Alterar Imagem"
+         ],
+         "Update/Publish the post for saving the list.": [
+            "Publique/Atualize a postagem para salvar a lista."
+         ],
+         "Add Certified Individual": [
+            "Adicionar Participante Certificado"
+         ],
+         "Name": [
+            "Nome"
+         ],
+         "Email": [
+            "Email"
+         ],
+         "Add": [
+            "Adicionar"
+         ],
+         "Clear Fields": [
+            "Limpar Campos"
+         ],
+         "Save Edit": [
+            "Salvar Alteração"
+         ],
+         "Remove": [
+            "Remover"
+         ],
+         "Warning! Participants removed from this list won't possesses a certificate": [
+            "Atenção! Participantes removidos dessa lista não obterão o certificado"
+         ],
+         "Certificate": [
+            "Certificado"
+         ],
+         "Our institution have the pleasure of award":[
+            "Nossa instituição tem o prazer de contemplar"
+         ],
+         "with this certificate for the event occurred here.": [
+            "Com este certificado pela participação no evento aqui ocorrido."
+         ],
+         "Random Person": [
+            "Pessoa Aleatória"
+         ],         
+         "***Participant Name***": [
+            "***Nome do Participante***"
+         ],
+         "QR Code placeholder": [
+            "Espaço para o Código QR"
+         ],
+         "***Certificate URL***": [
+            "***Link para o certificado***"
+         ],
+         "": {
+            "domain": "certify-your-audience",
+            "plural_forms": "nplurals=2; plural=(n > 1);",
+            "lang": "pt_BR"
+         }
+      }
+   }
+}

@@ -1,0 +1,209 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Certify Your Audience v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2024-04-14 22:14-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: src/blocks/node_modules\n"
+
+#: src/admin/CertifyYourAudienceAdmin.php:18
+#: src/admin/CertifyYourAudienceAdmin.php:64
+msgid "Certificates"
+msgstr "Certificados"
+
+#: src/admin/CertifyYourAudienceAdmin.php:19
+msgid "Certificate"
+msgstr "Certificado"
+
+#: src/admin/CertifyYourAudienceAdmin.php:20
+#: src/admin/CertifyYourAudienceAdmin.php:21
+msgid "Add New Certificate"
+msgstr "Adicionar Novo Certificado"
+
+#: src/admin/CertifyYourAudienceAdmin.php:22
+msgid "Edit Certificate"
+msgstr "Editar Certificado"
+
+#: src/admin/CertifyYourAudienceAdmin.php:23
+msgid "New Certificate"
+msgstr "Novo Certificado"
+
+#: src/admin/CertifyYourAudienceAdmin.php:24
+msgid "View Certificate"
+msgstr "Ver Certificado"
+
+#: src/admin/CertifyYourAudienceAdmin.php:25
+msgid "View Certificates"
+msgstr "Ver Certificados"
+
+#: src/admin/CertifyYourAudienceAdmin.php:26
+msgid "Search Certificates"
+msgstr "Buscar Certificados"
+
+#: src/admin/CertifyYourAudienceAdmin.php:27
+msgid "No certificates found"
+msgstr "Nenhum certificado encontrado"
+
+#: src/admin/CertifyYourAudienceAdmin.php:28
+msgid "No certificates found in trash"
+msgstr "Nenhum certificado encontrado na lixeira"
+
+#: src/admin/CertifyYourAudienceAdmin.php:29
+msgid "All Certificates"
+msgstr "Todos os certificados"
+
+#: src/admin/CertifyYourAudienceAdmin.php:30
+msgid "Certificate Archives"
+msgstr "Arquivo de certificados"
+
+#: src/admin/CertifyYourAudienceAdmin.php:31
+msgid "Certificate Attributes"
+msgstr "Atributos do certificado"
+
+#: src/admin/CertifyYourAudienceAdmin.php:32
+msgid "Insert into Certificate"
+msgstr "Inserir no certificado"
+
+#: src/admin/CertifyYourAudienceAdmin.php:33
+msgid "Uploaded to this Certificate"
+msgstr "Adicionado a esse certifcado"
+
+#: src/admin/CertifyYourAudienceAdmin.php:34
+msgid "Background Image"
+msgstr "Imagem de fundo"
+
+#: src/admin/CertifyYourAudienceAdmin.php:35
+msgid "Filter certificates list"
+msgstr "Filtrar lista de certificados"
+
+#: src/admin/CertifyYourAudienceAdmin.php:36
+msgid "Certificates list navigation"
+msgstr "Navegação de lista de certificados"
+
+#: src/admin/CertifyYourAudienceAdmin.php:37
+msgid "Certificates list"
+msgstr "Lista de certificados"
+
+#: src/admin/CertifyYourAudienceAdmin.php:38
+msgid "Certificate published"
+msgstr "Certificado publicado"
+
+#: src/admin/CertifyYourAudienceAdmin.php:39
+msgid "Certificate published privately"
+msgstr "Certificado publicado privativamente"
+
+#: src/admin/CertifyYourAudienceAdmin.php:40
+msgid "Certificate reverted to draft"
+msgstr "Certificado revertido para rascunho"
+
+#: src/admin/CertifyYourAudienceAdmin.php:41
+msgid "Certificate trashed"
+msgstr "Certificado excluído"
+
+#: src/admin/CertifyYourAudienceAdmin.php:42
+msgid "Certificate scheduled"
+msgstr "Certificado agendado"
+
+#: src/admin/CertifyYourAudienceAdmin.php:43
+msgid "Certificate updated"
+msgstr "Certificado atualizado"
+
+#: src/admin/CertifyYourAudienceAdmin.php:44
+msgid "Certificate Link"
+msgstr "Link do certificado"
+
+#: src/admin/CertifyYourAudienceAdmin.php:45
+msgid "A link to a certificate"
+msgstr "Um link para o certificado"
+
+#: src/admin/CertifyYourAudienceAdmin.php:47
+msgid ""
+"An academic certificate is a document that certifies that a person has "
+"received specific education or has passed a test or series of tests."
+msgstr ""
+"Um certificado acadêmico é um documento que atesta que certa pessoa recebeu "
+"certo nível de instrução ou que passou em um teste ou uma série de testes."
+
+#: src/blocks/CertificateBlocks.php:26
+msgid "CYA Certificate"
+msgstr "CYA Certificado"
+
+#: src/blocks/CertificateBlocks.php:27
+msgid "The actual certificate block that holds the content."
+msgstr "O bloco que envolve os dados do certificado."
+
+#: src/blocks/CertificateBlocks.php:32
+msgid "CYA Participant Name"
+msgstr "CYA Nome do participante"
+
+#: src/blocks/CertificateBlocks.php:33
+msgid "The name of the person awarded with the certificate."
+msgstr "Nome da pessoa contemplada com o certificado."
+
+#: src/blocks/CertificateBlocks.php:37
+msgid "CYA QrCode"
+msgstr ""
+
+#: src/blocks/CertificateBlocks.php:38
+msgid "The QrCode that identifies the certificate."
+msgstr "O caminho de URL que direciona para o certificado exclusivo."
+
+#: src/blocks/CertificateBlocks.php:42
+msgid "CYA URL"
+msgstr "CYA Link"
+
+#: src/blocks/CertificateBlocks.php:43
+msgid "The URL path that guides to the unique certificate."
+msgstr "O caminho de URL que direciona para o certificado exclusivo."
+
+#: src/blocks/CertificateBlocks.php:99 src/blocks/CertificateBlocks.php:100
+msgid "QR Code"
+msgstr "Código QR"
+
+#: src/blocks/CertificateBlocks.php:123
+#: src/blocks/src/certificate-url/save.js:20
+msgid "***Here comes the certificate URL***"
+msgstr "***Link para o certificado***"
+
+#: src/blocks/src/certificate-participant-name/edit.js:38
+msgid "***Participant Name***"
+msgstr "***Nome do participante***"
+
+#: src/blocks/src/certificate-qrcode/edit.js:41
+#: src/blocks/src/certificate-qrcode/edit.js:42
+#: src/blocks/src/certificate-qrcode/save.js:23
+msgid "QR Code placeholder"
+msgstr "Espeço reservado ao Código QR"
+
+#: src/blocks/src/certificate-url/edit.js:35
+msgid "***Certificate URL***"
+msgstr "***Link do Certificado***"
+
+#, fuzzy
+#~| msgid "Certificate"
+#~ msgid "cya/certificate-url"
+#~ msgstr "Certificado"
+
+#~ msgid "Choose background image"
+#~ msgstr "Escolha a imagem de fundo"
